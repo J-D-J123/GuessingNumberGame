@@ -5,7 +5,7 @@
   This program represents a number guessing game in python where the user 
   guesses a number between 1-100 and automatically scores your score. 
 
-General Usage Notes:
+# General Usage Notes:
   the appiclation was created on an Educational Windows 10 System 
   progress cannot be saved
   I am not responsible for any problems that occur
