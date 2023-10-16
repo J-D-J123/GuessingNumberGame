@@ -6,8 +6,9 @@
   guesses a number between 1-100 and automatically scores your score.
 
 # How to Play 
-- The computer will randomly generate a number for you to guess. If you get it right
-  you get more attempts to guess the next random generated number.
+- Download GuessNumber.exe file and run
+- Computer randomly chooses a number and you have to guess
+- You only get 10 attempts if you get the number right you get more attempts
 
 # Score Board as follows:
   - score is greater than 600 but less than 1000 "Insane"
