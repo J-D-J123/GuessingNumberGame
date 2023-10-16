@@ -1,4 +1,5 @@
 import random 
+import sys
 
 
 # score board... 
@@ -68,4 +69,5 @@ while True:
         print("You Ran Out Of Attempts Your Score Is: "+ str(score) + 
             " The number was: " + str(theNumber))
         scoreBoard(score)
-        exit()
+        # exit()
+        sys.exit()
