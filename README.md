@@ -8,12 +8,13 @@
 # How to Play 
 - The computer will randomly generate a number for you to guess. If you get it right
   you get more attempts to guess the next random generated number.
-  Scores goes as follows:
-      - score is greater than 600 but less than 1000 "Insane"
-      - score is greater than 400 but less than 599  "Above average"
-      - score is greater than 200 but less than 399  "Average"
-      - score is greater than 30  but less than 99   "failing"
-      - score is below 30 "You are not in any category"
+
+# Score Board as follows:
+  - score is greater than 600 but less than 1000 "Insane"
+  - score is greater than 400 but less than 599  "Above average"
+  - score is greater than 200 but less than 399  "Average"
+  - score is greater than 30  but less than 99   "failing"
+  - score is below 30 "You are not in any category"
 
 # General Usage Notes:
 - This appiclation was created on an Educational Windows 10 System 
